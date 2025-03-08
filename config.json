@@ -26,7 +26,8 @@
     "Кемер",
     "Текирова",
     "Сиде",
-    "Белек"
+    "Белек",
+    "Гечек"
   ],
   "tariffs": [
     {
@@ -95,45 +96,6 @@
     },
     {
       "from": "Анталия город",
-      "to": "Стамбул Аэропорт Старый",
-      "service_class": [
-        {
-          "name": "Базовый",
-          "value": "basic",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
-          "price": "по запросу"
-        },
-        {
-          "name": "Базовый",
-          "price": "3900 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "basic",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
-        }
-      ]
-    },
-    {
-      "from": "Анталия город",
       "to": "Измир город",
       "service_class": [
         {
@@ -146,28 +108,6 @@
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
           "price": "по запросу"
-        },
-        {
-          "name": "Базовый",
-          "price": "3900 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "basic",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -185,28 +125,6 @@
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
           "price": "по запросу"
-        },
-        {
-          "name": "Базовый",
-          "price": "3900 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "basic",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -224,28 +142,6 @@
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
           "price": "по запросу"
-        },
-        {
-          "name": "Базовый",
-          "price": "3900 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "basic",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -263,28 +159,6 @@
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
           "price": "по запросу"
-        },
-        {
-          "name": "Базовый",
-          "price": "3900 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "basic",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -374,34 +248,6 @@
     },
     {
       "from": "Анталия город",
-      "to": "Даламан Аэропорт",
-      "service_class": [
-        {
-          "name": "Базовый",
-          "price": "180 usd",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "basic",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "250 usd",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
-        }
-      ]
-    },
-    {
-      "from": "Анталия город",
       "to": "Каш",
       "service_class": [
         {
@@ -417,7 +263,7 @@
         },
         {
           "name": "Премиум",
-          "price": "200 usd",
+          "price": "150 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -445,7 +291,7 @@
         },
         {
           "name": "Премиум",
-          "price": "250 usd",
+          "price": "210 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -681,20 +527,8 @@
       "to": "Бодрум город",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится:) ",
-            "Встреча с табличкой",
-            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "260 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -705,7 +539,7 @@
         },
         {
           "name": "Премиум",
-          "price": "4500 лир",
+          "price": "400 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -817,7 +651,7 @@
         },
         {
           "name": "Премиум",
-          "price": "200 usd",
+          "price": "150 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -845,7 +679,7 @@
         },
         {
           "name": "Премиум",
-          "price": "250 usd",
+          "price": "210 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -1221,19 +1055,8 @@
       "to": "Мармарис",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -1244,7 +1067,7 @@
         },
         {
           "name": "Премиум",
-          "price": "4500 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -1291,61 +1114,11 @@
     },
     {
       "from": "Измир город",
-      "to": "Анталия город",
-      "service_class": [
-        {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
-          "name": "Базовый",
-          "price": "3900 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "basic",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
-        }
-      ]
-    },
-    {
-      "from": "Измир город",
       "to": "Анталия Аэропорт",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -1353,17 +1126,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -1372,19 +1134,8 @@
       "to": "Стамбул город",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -1392,17 +1143,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -1411,19 +1151,8 @@
       "to": "Стамбул Аэропорт Новый",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -1431,17 +1160,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -1450,19 +1168,8 @@
       "to": "Стамбул Аэропорт Старый",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -1470,17 +1177,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -1489,19 +1185,8 @@
       "to": "Измир Аэропорт",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -1509,17 +1194,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -1528,19 +1202,8 @@
       "to": "Анкара город",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -1548,17 +1211,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -1567,19 +1219,8 @@
       "to": "Анкара Аэропорт",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -1587,17 +1228,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -1606,19 +1236,8 @@
       "to": "Бодрум город",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -1626,17 +1245,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -1645,19 +1253,8 @@
       "to": "Бодрум Аэропорт",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -1665,17 +1262,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -1684,19 +1270,8 @@
       "to": "Даламан город",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -1704,17 +1279,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -1723,19 +1287,8 @@
       "to": "Даламан Аэропорт",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -1743,17 +1296,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -1762,19 +1304,8 @@
       "to": "Каш",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "750 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -1782,17 +1313,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -1801,19 +1321,8 @@
       "to": "Фетхие",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "600 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -1821,17 +1330,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -1840,19 +1338,8 @@
       "to": "Мармарис",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "350 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -1860,17 +1347,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -1879,19 +1355,8 @@
       "to": "Алания",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -1899,17 +1364,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -1918,19 +1372,8 @@
       "to": "Чешме",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -1938,17 +1381,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -1957,19 +1389,8 @@
       "to": "Анталия город",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -1977,17 +1398,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -1996,19 +1406,8 @@
       "to": "Анталия Аэропорт",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -2016,17 +1415,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -2035,19 +1423,8 @@
       "to": "Стамбул город",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -2055,56 +1432,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
-        }
-      ]
-    },
-    {
-      "from": "Измир Аэропорт",
-      "to": "Стамбул Аэропорт Новый",
-      "service_class": [
-        {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
-          "name": "Базовый",
-          "price": "3900 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "basic",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -2113,19 +1440,8 @@
       "to": "Стамбул Аэропорт Старый",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -2133,17 +1449,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -2152,19 +1457,8 @@
       "to": "Измир город",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "50 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -2175,7 +1469,7 @@
         },
         {
           "name": "Премиум",
-          "price": "4500 лир",
+          "price": "70 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -2191,19 +1485,8 @@
       "to": "Анкара город",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -2211,17 +1494,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -2230,19 +1502,8 @@
       "to": "Анкара Аэропорт",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -2250,17 +1511,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -2269,19 +1519,8 @@
       "to": "Бодрум город",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -2289,17 +1528,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -2308,19 +1536,8 @@
       "to": "Бодрум Аэропорт",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -2328,17 +1545,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -2347,19 +1553,8 @@
       "to": "Даламан город",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -2367,17 +1562,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -2386,19 +1570,8 @@
       "to": "Даламан Аэропорт",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -2406,17 +1579,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -2425,19 +1587,8 @@
       "to": "Каш",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "750 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -2445,17 +1596,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -2464,19 +1604,8 @@
       "to": "Фетхие",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "600 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -2484,17 +1613,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -2503,19 +1621,8 @@
       "to": "Мармарис",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "450 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -2523,17 +1630,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -2542,19 +1638,8 @@
       "to": "Алания",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -2562,17 +1647,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -2581,19 +1655,8 @@
       "to": "Чешме",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -2601,17 +1664,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -2620,19 +1672,8 @@
       "to": "Анталия город",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -2640,17 +1681,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -2659,19 +1689,8 @@
       "to": "Анталия Аэропорт",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -2679,17 +1698,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -2698,19 +1706,8 @@
       "to": "Стамбул город",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -2718,17 +1715,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -2737,19 +1723,8 @@
       "to": "Стамбул Аэропорт Новый",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -2757,17 +1732,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -2776,19 +1740,8 @@
       "to": "Стамбул Аэропорт Старый",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -2796,17 +1749,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -2815,19 +1757,8 @@
       "to": "Измир город",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -2835,17 +1766,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -2854,19 +1774,8 @@
       "to": "Измир Аэропорт",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -2874,17 +1783,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -2893,19 +1791,8 @@
       "to": "Анкара Аэропорт",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -2913,17 +1800,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -2932,19 +1808,8 @@
       "to": "Бодрум город",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -2952,17 +1817,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -2971,19 +1825,8 @@
       "to": "Бодрум Аэропорт",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -2991,17 +1834,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -3010,19 +1842,8 @@
       "to": "Даламан город",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -3030,17 +1851,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -3049,19 +1859,8 @@
       "to": "Даламан Аэропорт",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -3069,17 +1868,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -3088,19 +1876,8 @@
       "to": "Каш",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -3108,17 +1885,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -3127,19 +1893,8 @@
       "to": "Фетхие",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -3147,17 +1902,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -3166,19 +1910,8 @@
       "to": "Мармарис",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -3186,17 +1919,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -3205,19 +1927,8 @@
       "to": "Алания",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -3225,17 +1936,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -3244,19 +1944,8 @@
       "to": "Чешме",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -3264,17 +1953,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -3283,19 +1961,8 @@
       "to": "Анталия город",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -3303,17 +1970,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -3322,19 +1978,8 @@
       "to": "Анталия Аэропорт",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -3342,17 +1987,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -3361,19 +1995,8 @@
       "to": "Стамбул город",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -3381,17 +2004,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -3400,19 +2012,8 @@
       "to": "Стамбул Аэропорт Новый",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -3420,17 +2021,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -3439,19 +2029,8 @@
       "to": "Стамбул Аэропорт Старый",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -3459,17 +2038,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -3478,19 +2046,8 @@
       "to": "Измир город",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -3498,17 +2055,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -3517,19 +2063,8 @@
       "to": "Измир Аэропорт",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -3537,17 +2072,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -3556,19 +2080,8 @@
       "to": "Анкара город",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -3576,17 +2089,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -3595,19 +2097,8 @@
       "to": "Бодрум город",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -3615,17 +2106,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -3634,19 +2114,8 @@
       "to": "Бодрум Аэропорт",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -3654,17 +2123,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -3673,19 +2131,8 @@
       "to": "Даламан город",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -3693,17 +2140,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -3712,19 +2148,8 @@
       "to": "Даламан Аэропорт",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -3732,17 +2157,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -3751,19 +2165,8 @@
       "to": "Каш",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -3771,17 +2174,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -3790,19 +2182,8 @@
       "to": "Фетхие",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -3810,17 +2191,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -3829,19 +2199,8 @@
       "to": "Мармарис",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -3849,17 +2208,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -3868,19 +2216,8 @@
       "to": "Алания",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -3888,17 +2225,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -3907,19 +2233,8 @@
       "to": "Чешме",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -3927,17 +2242,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -3946,19 +2250,8 @@
       "to": "Анталия город",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "350 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -3966,17 +2259,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -3985,19 +2267,8 @@
       "to": "Анталия Аэропорт",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "350 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -4005,17 +2276,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -4024,19 +2284,8 @@
       "to": "Стамбул город",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -4044,17 +2293,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -4102,19 +2340,8 @@
       "to": "Стамбул Аэропорт Старый",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "350 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -4122,17 +2349,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -4141,19 +2357,8 @@
       "to": "Измир город",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "150 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -4161,17 +2366,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -4180,19 +2374,8 @@
       "to": "Измир Аэропорт",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "150 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -4200,17 +2383,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -4219,19 +2391,8 @@
       "to": "Анкара город",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -4239,17 +2400,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -4258,19 +2408,8 @@
       "to": "Анкара Аэропорт",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -4278,17 +2417,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -4297,19 +2425,8 @@
       "to": "Бодрум Аэропорт",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "50 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -4317,17 +2434,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -4336,19 +2442,8 @@
       "to": "Даламан город",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "250 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -4356,17 +2451,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -4375,19 +2459,8 @@
       "to": "Даламан Аэропорт",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "250 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -4395,17 +2468,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -4414,19 +2476,8 @@
       "to": "Каш",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "300 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -4434,17 +2485,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -4453,19 +2493,8 @@
       "to": "Фетхие",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "300 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -4473,17 +2502,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -4492,19 +2510,8 @@
       "to": "Мармарис",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "150 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -4512,17 +2519,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -4531,19 +2527,8 @@
       "to": "Алания",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -4551,17 +2536,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -4570,19 +2544,8 @@
       "to": "Чешме",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -4590,17 +2553,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -4609,19 +2561,8 @@
       "to": "Анталия город",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "400 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -4629,17 +2570,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -4648,19 +2578,8 @@
       "to": "Анталия Аэропорт",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "499 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -4668,17 +2587,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -4688,7 +2596,7 @@
       "service_class": [
         {
           "name": "Эконом",
-          "price": "3600 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -4696,28 +2604,6 @@
           ],
           "value": "economy",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
-          "name": "Базовый",
-          "price": "3900 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "basic",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -4726,19 +2612,8 @@
       "to": "Стамбул Аэропорт Новый",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -4746,17 +2621,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -4765,19 +2629,8 @@
       "to": "Стамбул Аэропорт Старый",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -4785,17 +2638,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -4804,19 +2646,8 @@
       "to": "Измир город",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "350 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -4824,17 +2655,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -4843,19 +2663,8 @@
       "to": "Измир Аэропорт",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "350 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -4863,17 +2672,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -4882,19 +2680,8 @@
       "to": "Анкара город",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -4902,17 +2689,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -4921,19 +2697,8 @@
       "to": "Анкара Аэропорт",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "по запросу",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -4941,17 +2706,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -4960,19 +2714,8 @@
       "to": "Бодрум город",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "50 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -4983,7 +2726,7 @@
         },
         {
           "name": "Премиум",
-          "price": "4500 лир",
+          "price": "70 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -4999,19 +2742,8 @@
       "to": "Даламан город",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "250 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -5019,17 +2751,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -5038,19 +2759,8 @@
       "to": "Даламан Аэропорт",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "250 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -5058,17 +2768,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -5077,19 +2776,8 @@
       "to": "Каш",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "300 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -5097,17 +2785,6 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
-        },
-        {
-          "name": "Премиум",
-          "price": "4500 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "premium",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png"
         }
       ]
     },
@@ -5116,19 +2793,8 @@
       "to": "Фетхие",
       "service_class": [
         {
-          "name": "Эконом",
-          "price": "3600 лир",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится.",
-            "Встреча с табличкой"
-          ],
-          "value": "economy",
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black_small.png"
-        },
-        {
           "name": "Базовый",
-          "price": "3900 лир",
+          "price": "250 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -5139,7 +2805,7 @@
         },
         {
           "name": "Премиум",
-          "price": "4500 лир",
+          "price": "350 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -5675,6 +3341,216 @@
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
           "price": "125 usd"
+        }
+      ]
+    },
+    {
+      "from": "Даламан Аэропорт",
+      "to": "Каш",
+      "service_class": [
+        {
+          "name": "Базовый",
+          "value": "basic",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой ",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
+          "price": "90 usd"
+        },
+        {
+          "name": "Премиум",
+          "value": "premium",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
+          "price": "150 usd"
+        }
+      ]
+    },
+    {
+      "from": "Даламан Аэропорт",
+      "to": "Анталия Аэропорт",
+      "service_class": [
+        {
+          "name": "Базовый",
+          "value": "basic",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой ",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
+          "price": "180 usd"
+        },
+        {
+          "name": "Премиум",
+          "value": "premium",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
+          "price": "260 usd"
+        }
+      ]
+    },
+    {
+      "from": "Даламан Аэропорт",
+      "to": "Калкан",
+      "service_class": [
+        {
+          "name": "Базовый",
+          "value": "basic",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой ",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
+          "price": "90 usd"
+        },
+        {
+          "name": "Премиум",
+          "value": "premium",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
+          "price": "150 usd"
+        }
+      ]
+    },
+    {
+      "from": "Даламан город",
+      "to": "Каш",
+      "service_class": [
+        {
+          "name": "Базовый",
+          "value": "basic",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой ",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
+          "price": "90 usd"
+        },
+        {
+          "name": "Премиум",
+          "value": "premium",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
+          "price": "150 usd"
+        }
+      ]
+    },
+    {
+      "from": "Даламан Аэропорт",
+      "to": "Фетхие",
+      "service_class": [
+        {
+          "name": "Базовый",
+          "value": "basic",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой ",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
+          "price": "50 usd"
+        },
+        {
+          "name": "Премиум",
+          "value": "premium",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
+          "price": "90 usd"
+        }
+      ]
+    },
+    {
+      "from": "Даламан Аэропорт",
+      "to": "Бодрум город",
+      "service_class": [
+        {
+          "name": "Базовый",
+          "value": "basic",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой ",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
+          "price": "210 usd"
+        },
+        {
+          "name": "Премиум",
+          "value": "premium",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
+          "price": "250 usd"
+        }
+      ]
+    },
+    {
+      "from": "Даламан Аэропорт",
+      "to": "Гечек",
+      "service_class": [
+        {
+          "name": "Базовый",
+          "value": "basic",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой ",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
+          "price": "35 usd"
+        },
+        {
+          "name": "Премиум",
+          "value": "premium",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
+          "price": "60 usd"
         }
       ]
     }
