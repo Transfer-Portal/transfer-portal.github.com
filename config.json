@@ -27,7 +27,11 @@
     "Текирова",
     "Сиде",
     "Белек",
-    "Гечек"
+    "Гечек",
+    "Махмутлар",
+    "Дальян",
+    "Патара",
+    "Сакликент"
   ],
   "tariffs": [
     {
@@ -252,7 +256,7 @@
       "service_class": [
         {
           "name": "Базовый",
-          "price": "100 usd",
+          "price": "110 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -263,7 +267,7 @@
         },
         {
           "name": "Премиум",
-          "price": "150 usd",
+          "price": "160 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -308,7 +312,7 @@
       "service_class": [
         {
           "name": "Базовый",
-          "price": "240 usd",
+          "price": "190 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -319,7 +323,7 @@
         },
         {
           "name": "Премиум",
-          "price": "340 usd",
+          "price": "250 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -336,7 +340,7 @@
       "service_class": [
         {
           "name": "Базовый",
-          "price": "100 usd",
+          "price": "90 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -347,7 +351,7 @@
         },
         {
           "name": "Премиум",
-          "price": "150 usd",
+          "price": "140 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -640,7 +644,7 @@
       "service_class": [
         {
           "name": "Базовый",
-          "price": "100 usd",
+          "price": "110 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -651,7 +655,7 @@
         },
         {
           "name": "Премиум",
-          "price": "150 usd",
+          "price": "160 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -696,7 +700,7 @@
       "service_class": [
         {
           "name": "Базовый",
-          "price": "240 usd",
+          "price": "190 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -707,7 +711,7 @@
         },
         {
           "name": "Премиум",
-          "price": "340 usd",
+          "price": "250 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -2477,7 +2481,7 @@
       "service_class": [
         {
           "name": "Базовый",
-          "price": "300 usd",
+          "price": "230 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -2485,6 +2489,18 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
+        },
+        {
+          "name": "Премиум",
+          "value": "premium",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
+          "price": "280 usd"
         }
       ]
     },
@@ -2562,7 +2578,7 @@
       "service_class": [
         {
           "name": "Базовый",
-          "price": "400 usd",
+          "price": "260 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -2579,7 +2595,7 @@
       "service_class": [
         {
           "name": "Базовый",
-          "price": "499 usd",
+          "price": "260 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -2743,7 +2759,7 @@
       "service_class": [
         {
           "name": "Базовый",
-          "price": "250 usd",
+          "price": "120 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -2751,6 +2767,18 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
+        },
+        {
+          "name": "Премиум",
+          "value": "premium",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
+          "price": "160 usd"
         }
       ]
     },
@@ -2760,7 +2788,7 @@
       "service_class": [
         {
           "name": "Базовый",
-          "price": "250 usd",
+          "price": "120 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -2768,6 +2796,18 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
+        },
+        {
+          "name": "Премиум",
+          "value": "premium",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
+          "price": "160 usd"
         }
       ]
     },
@@ -2777,7 +2817,7 @@
       "service_class": [
         {
           "name": "Базовый",
-          "price": "300 usd",
+          "price": "230 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -2785,6 +2825,18 @@
           ],
           "value": "basic",
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png"
+        },
+        {
+          "name": "Премиум",
+          "value": "premium",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
+          "price": "280 usd"
         }
       ]
     },
@@ -2848,7 +2900,7 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
-          "price": "100 usd"
+          "price": "115 usd"
         },
         {
           "name": "Премиум",
@@ -2860,7 +2912,7 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
-          "price": "190 usd"
+          "price": "160 usd"
         }
       ]
     },
@@ -2908,7 +2960,7 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
-          "price": "75 usd"
+          "price": "90 usd"
         },
         {
           "name": "Премиум",
@@ -2968,7 +3020,7 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
-          "price": "90 usd"
+          "price": "100 usd"
         },
         {
           "name": "Премиум",
@@ -2998,7 +3050,7 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
-          "price": "90 usd"
+          "price": "100 usd"
         },
         {
           "name": "Премиум",
@@ -3058,7 +3110,7 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
-          "price": "90 usd"
+          "price": "100 usd"
         },
         {
           "name": "Премиум",
@@ -3070,7 +3122,7 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
-          "price": "125 usd"
+          "price": "150 usd"
         }
       ]
     },
@@ -3088,7 +3140,7 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
-          "price": "90 usd"
+          "price": "70 usd"
         },
         {
           "name": "Премиум",
@@ -3100,7 +3152,7 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
-          "price": "125 usd"
+          "price": "100 usd"
         }
       ]
     },
@@ -3148,7 +3200,7 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
-          "price": "75 usd"
+          "price": "100 usd"
         },
         {
           "name": "Премиум",
@@ -3160,7 +3212,7 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
-          "price": "110 usd"
+          "price": "140 usd"
         }
       ]
     },
@@ -3178,7 +3230,7 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
-          "price": "60 usd"
+          "price": "45 usd"
         },
         {
           "name": "Премиум",
@@ -3208,7 +3260,7 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
-          "price": "100 usd"
+          "price": "115 usd"
         },
         {
           "name": "Премиум",
@@ -3220,7 +3272,7 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
-          "price": "150 usd"
+          "price": "160 usd"
         }
       ]
     },
@@ -3238,7 +3290,7 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
-          "price": "75 usd"
+          "price": "90 usd"
         },
         {
           "name": "Премиум",
@@ -3268,7 +3320,7 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
-          "price": "90 usd"
+          "price": "100 usd"
         },
         {
           "name": "Премиум",
@@ -3280,7 +3332,7 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
-          "price": "125 usd"
+          "price": "150 usd"
         }
       ]
     },
@@ -3298,7 +3350,7 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
-          "price": "90 usd"
+          "price": "100 usd"
         },
         {
           "name": "Премиум",
@@ -3328,7 +3380,7 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
-          "price": "90 usd"
+          "price": "100 usd"
         },
         {
           "name": "Премиум",
@@ -3358,7 +3410,7 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
-          "price": "90 usd"
+          "price": "100 usd"
         },
         {
           "name": "Премиум",
@@ -3388,7 +3440,7 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
-          "price": "180 usd"
+          "price": "140 usd"
         },
         {
           "name": "Премиум",
@@ -3400,7 +3452,7 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
-          "price": "260 usd"
+          "price": "200 usd"
         }
       ]
     },
@@ -3448,7 +3500,7 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
-          "price": "90 usd"
+          "price": "100 usd"
         },
         {
           "name": "Премиум",
@@ -3478,7 +3530,7 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
-          "price": "50 usd"
+          "price": "60 usd"
         },
         {
           "name": "Премиум",
@@ -3538,7 +3590,7 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
-          "price": "35 usd"
+          "price": "50 usd"
         },
         {
           "name": "Премиум",
@@ -3550,43 +3602,13 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
-          "price": "60 usd"
+          "price": "90 usd"
         }
       ]
     },
     {
       "from": "Каш",
       "to": "Фетхие",
-      "service_class": [
-        {
-          "name": "Базовый",
-          "value": "basic",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится:) ",
-            "Встреча с табличкой ",
-            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
-          ],
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
-          "price": "80 usd"
-        },
-        {
-          "name": "Премиум",
-          "value": "premium",
-          "features": [
-            "Вы можете бесплатно отменить заказ за 24 часа!",
-            "Водитель дождется вас, даже если ваш рейс задержится:) ",
-            "Встреча с табличкой",
-            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
-          ],
-          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
-          "price": "110 usd"
-        }
-      ]
-    },
-    {
-      "from": "Каш",
-      "to": "Чиралы",
       "service_class": [
         {
           "name": "Базовый",
@@ -3610,7 +3632,37 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
-          "price": "120 usd"
+          "price": "130 usd"
+        }
+      ]
+    },
+    {
+      "from": "Каш",
+      "to": "Чиралы",
+      "service_class": [
+        {
+          "name": "Базовый",
+          "value": "basic",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой ",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
+          "price": "100 usd"
+        },
+        {
+          "name": "Премиум",
+          "value": "premium",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
+          "price": "150 usd"
         }
       ]
     },
@@ -3628,7 +3680,7 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
-          "price": "50 usd"
+          "price": "60 usd"
         },
         {
           "name": "Премиум",
@@ -3640,7 +3692,7 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
-          "price": "70 usd"
+          "price": "90 usd"
         }
       ]
     },
@@ -3658,7 +3710,7 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
-          "price": "80 usd"
+          "price": "100 usd"
         },
         {
           "name": "Премиум",
@@ -3670,7 +3722,7 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
-          "price": "110 usd"
+          "price": "150 usd"
         }
       ]
     },
@@ -3718,7 +3770,7 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
-          "price": "40 usd"
+          "price": "100 usd"
         },
         {
           "name": "Премиум",
@@ -3730,7 +3782,7 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
-          "price": "60 usd"
+          "price": "130 usd"
         }
       ]
     },
@@ -3748,7 +3800,7 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
-          "price": "90 usd"
+          "price": "100 usd"
         },
         {
           "name": "Премиум",
@@ -3760,7 +3812,7 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
-          "price": "120 usd"
+          "price": "140 usd"
         }
       ]
     },
@@ -3838,7 +3890,7 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
-          "price": "200 usd"
+          "price": "165 usd"
         },
         {
           "name": "Премиум",
@@ -3850,7 +3902,7 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
-          "price": "250 usd"
+          "price": "210 usd"
         }
       ]
     },
@@ -3868,7 +3920,7 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
-          "price": "190 usd"
+          "price": "180 usd"
         },
         {
           "name": "Премиум",
@@ -3880,7 +3932,7 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
-          "price": "240 usd"
+          "price": "230 usd"
         }
       ]
     },
@@ -3928,7 +3980,7 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
-          "price": "180 usd"
+          "price": "155 usd"
         },
         {
           "name": "Премиум",
@@ -3940,7 +3992,7 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
-          "price": "230 usd"
+          "price": "210 usd"
         }
       ]
     },
@@ -3958,7 +4010,457 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
-          "price": "180 usd"
+          "price": "140 usd"
+        },
+        {
+          "name": "Премиум",
+          "value": "premium",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
+          "price": "190 usd"
+        }
+      ]
+    },
+    {
+      "from": "Анталия Аэропорт",
+      "to": "Алания",
+      "service_class": [
+        {
+          "name": "Базовый",
+          "value": "basic",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой ",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
+          "price": "90 usd"
+        },
+        {
+          "name": "Премиум",
+          "value": "premium",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
+          "price": "140 usd"
+        }
+      ]
+    },
+    {
+      "from": "Анталия город",
+      "to": "Белек",
+      "service_class": [
+        {
+          "name": "Базовый",
+          "value": "basic",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой ",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
+          "price": "45 usd"
+        },
+        {
+          "name": "Премиум",
+          "value": "premium",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
+          "price": "85 usd"
+        }
+      ]
+    },
+    {
+      "from": "Анталия город",
+      "to": "Кемер",
+      "service_class": [
+        {
+          "name": "Базовый",
+          "value": "basic",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой ",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
+          "price": "70 usd"
+        },
+        {
+          "name": "Премиум",
+          "value": "premium",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
+          "price": "100 usd"
+        }
+      ]
+    },
+    {
+      "from": "Анталия город",
+      "to": "Махмутлар",
+      "service_class": [
+        {
+          "name": "Базовый",
+          "value": "basic",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой ",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
+          "price": "110 usd"
+        },
+        {
+          "name": "Премиум",
+          "value": "premium",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
+          "price": "160 usd"
+        }
+      ]
+    },
+    {
+      "from": "Анталия Аэропорт",
+      "to": "Махмутлар",
+      "service_class": [
+        {
+          "name": "Базовый",
+          "value": "basic",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой ",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
+          "price": "110 usd"
+        },
+        {
+          "name": "Премиум",
+          "value": "premium",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
+          "price": "160 usd"
+        }
+      ]
+    },
+    {
+      "from": "Анталия город",
+      "to": "Сиде",
+      "service_class": [
+        {
+          "name": "Базовый",
+          "value": "basic",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой ",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
+          "price": "100 usd"
+        },
+        {
+          "name": "Премиум",
+          "value": "premium",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
+          "price": "140 usd"
+        }
+      ]
+    },
+    {
+      "from": "Анталия город",
+      "to": "Текирова",
+      "service_class": [
+        {
+          "name": "Базовый",
+          "value": "basic",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой ",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
+          "price": "90 usd"
+        },
+        {
+          "name": "Премиум",
+          "value": "premium",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
+          "price": "130 usd"
+        }
+      ]
+    },
+    {
+      "from": "Анталия Аэропорт",
+      "to": "Текирова",
+      "service_class": [
+        {
+          "name": "Базовый",
+          "value": "basic",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой ",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
+          "price": "90 usd"
+        },
+        {
+          "name": "Премиум",
+          "value": "premium",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
+          "price": "130 usd"
+        }
+      ]
+    },
+    {
+      "from": "Даламан город",
+      "to": "Алания",
+      "service_class": [
+        {
+          "name": "Базовый",
+          "value": "basic",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой ",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
+          "price": "230 usd"
+        },
+        {
+          "name": "Премиум",
+          "value": "premium",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
+          "price": "300 usd"
+        }
+      ]
+    },
+    {
+      "from": "Даламан Аэропорт",
+      "to": "Алания",
+      "service_class": [
+        {
+          "name": "Базовый",
+          "value": "basic",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой ",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
+          "price": "230 usd"
+        },
+        {
+          "name": "Премиум",
+          "value": "premium",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
+          "price": "300 usd"
+        }
+      ]
+    },
+    {
+      "from": "Даламан Аэропорт",
+      "to": "Анталия город",
+      "service_class": [
+        {
+          "name": "Базовый",
+          "value": "basic",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой ",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
+          "price": "140 usd"
+        },
+        {
+          "name": "Премиум",
+          "value": "premium",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
+          "price": "200 usd"
+        }
+      ]
+    },
+    {
+      "from": "Даламан Аэропорт",
+      "to": "Белек",
+      "service_class": [
+        {
+          "name": "Базовый",
+          "value": "basic",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой ",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
+          "price": "190 usd"
+        },
+        {
+          "name": "Премиум",
+          "value": "premium",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
+          "price": "250 usd"
+        }
+      ]
+    },
+    {
+      "from": "Даламан Аэропорт",
+      "to": "Дальян",
+      "service_class": [
+        {
+          "name": "Базовый",
+          "value": "basic",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой ",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
+          "price": "60 usd"
+        },
+        {
+          "name": "Премиум",
+          "value": "premium",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
+          "price": "100 usd"
+        }
+      ]
+    },
+    {
+      "from": "Даламан Аэропорт",
+      "to": "Чиралы",
+      "service_class": [
+        {
+          "name": "Базовый",
+          "value": "basic",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой ",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
+          "price": "200 usd"
+        },
+        {
+          "name": "Премиум",
+          "value": "premium",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
+          "price": "250 usd"
+        }
+      ]
+    },
+    {
+      "from": "Даламан Аэропорт",
+      "to": "Демре",
+      "service_class": [
+        {
+          "name": "Базовый",
+          "value": "basic",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой ",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
+          "price": "170 usd"
         },
         {
           "name": "Премиум",
@@ -3971,6 +4473,366 @@
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
           "price": "230 usd"
+        }
+      ]
+    },
+    {
+      "from": "Даламан Аэропорт",
+      "to": "Финике",
+      "service_class": [
+        {
+          "name": "Базовый",
+          "value": "basic",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой ",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
+          "price": "170 usd"
+        },
+        {
+          "name": "Премиум",
+          "value": "premium",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
+          "price": "230 usd"
+        }
+      ]
+    },
+    {
+      "from": "Даламан Аэропорт",
+      "to": "Кемер",
+      "service_class": [
+        {
+          "name": "Базовый",
+          "value": "basic",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой ",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
+          "price": "200 usd"
+        },
+        {
+          "name": "Премиум",
+          "value": "premium",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
+          "price": "250 usd"
+        }
+      ]
+    },
+    {
+      "from": "Даламан Аэропорт",
+      "to": "Кумлуджа",
+      "service_class": [
+        {
+          "name": "Базовый",
+          "value": "basic",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой ",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
+          "price": "170 usd"
+        },
+        {
+          "name": "Премиум",
+          "value": "premium",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
+          "price": "220 usd"
+        }
+      ]
+    },
+    {
+      "from": "Даламан Аэропорт",
+      "to": "Махмутлар",
+      "service_class": [
+        {
+          "name": "Базовый",
+          "value": "basic",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой ",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
+          "price": "220 usd"
+        },
+        {
+          "name": "Премиум",
+          "value": "premium",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
+          "price": "270 usd"
+        }
+      ]
+    },
+    {
+      "from": "Даламан Аэропорт",
+      "to": "Мармарис",
+      "service_class": [
+        {
+          "name": "Базовый",
+          "value": "basic",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой ",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
+          "price": "70 usd"
+        },
+        {
+          "name": "Премиум",
+          "value": "premium",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
+          "price": "120 usd"
+        }
+      ]
+    },
+    {
+      "from": "Даламан Аэропорт",
+      "to": "Патара",
+      "service_class": [
+        {
+          "name": "Базовый",
+          "value": "basic",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой ",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
+          "price": "80 usd"
+        },
+        {
+          "name": "Премиум",
+          "value": "premium",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
+          "price": "130 usd"
+        }
+      ]
+    },
+    {
+      "from": "Даламан Аэропорт",
+      "to": "Сиде",
+      "service_class": [
+        {
+          "name": "Базовый",
+          "value": "basic",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой ",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
+          "price": "210 usd"
+        },
+        {
+          "name": "Премиум",
+          "value": "premium",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
+          "price": "260 usd"
+        }
+      ]
+    },
+    {
+      "from": "Даламан Аэропорт",
+      "to": "Текирова",
+      "service_class": [
+        {
+          "name": "Базовый",
+          "value": "basic",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой ",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
+          "price": "200 usd"
+        },
+        {
+          "name": "Премиум",
+          "value": "premium",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
+          "price": "250 usd"
+        }
+      ]
+    },
+    {
+      "from": "Каш",
+      "to": "Дальян",
+      "service_class": [
+        {
+          "name": "Базовый",
+          "value": "basic",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой ",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
+          "price": "120 usd"
+        },
+        {
+          "name": "Премиум",
+          "value": "premium",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
+          "price": "170 usd"
+        }
+      ]
+    },
+    {
+      "from": "Каш",
+      "to": "Махмутлар",
+      "service_class": [
+        {
+          "name": "Базовый",
+          "value": "basic",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой ",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
+          "price": "210 usd"
+        },
+        {
+          "name": "Премиум",
+          "value": "premium",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
+          "price": "260 usd"
+        }
+      ]
+    },
+    {
+      "from": "Каш",
+      "to": "Патара",
+      "service_class": [
+        {
+          "name": "Базовый",
+          "value": "basic",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой ",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
+          "price": "70 usd"
+        },
+        {
+          "name": "Премиум",
+          "value": "premium",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
+          "price": "120 usd"
+        }
+      ]
+    },
+    {
+      "from": "Каш",
+      "to": "Сакликент",
+      "service_class": [
+        {
+          "name": "Базовый",
+          "value": "basic",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой ",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
+          "price": "100 usd"
+        },
+        {
+          "name": "Премиум",
+          "value": "premium",
+          "features": [
+            "Вы можете бесплатно отменить заказ за 24 часа!",
+            "Водитель дождется вас, даже если ваш рейс задержится:) ",
+            "Встреча с табличкой",
+            " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
+          ],
+          "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_black.png",
+          "price": "140 usd"
         }
       ]
     }
