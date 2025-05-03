@@ -254,7 +254,7 @@
       "service_class": [
         {
           "name": "Базовый",
-          "price": "110 usd",
+          "price": "120 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -310,7 +310,7 @@
       "service_class": [
         {
           "name": "Базовый",
-          "price": "190 usd",
+          "price": "200 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -338,7 +338,7 @@
       "service_class": [
         {
           "name": "Базовый",
-          "price": "90 usd",
+          "price": "100 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -642,7 +642,7 @@
       "service_class": [
         {
           "name": "Базовый",
-          "price": "110 usd",
+          "price": "120 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -670,7 +670,7 @@
       "service_class": [
         {
           "name": "Базовый",
-          "price": "150 usd",
+          "price": "160 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -698,7 +698,7 @@
       "service_class": [
         {
           "name": "Базовый",
-          "price": "190 usd",
+          "price": "200 usd",
           "features": [
             "Вы можете бесплатно отменить заказ за 24 часа!",
             "Водитель дождется вас, даже если ваш рейс задержится.",
@@ -2894,7 +2894,7 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
-          "price": "115 usd"
+          "price": "120 usd"
         },
         {
           "name": "Премиум",
@@ -3254,7 +3254,7 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
-          "price": "115 usd"
+          "price": "120 usd"
         },
         {
           "name": "Премиум",
@@ -3344,7 +3344,7 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
-          "price": "100 usd"
+          "price": "110 usd"
         },
         {
           "name": "Премиум",
@@ -3644,7 +3644,7 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
-          "price": "100 usd"
+          "price": "110 usd"
         },
         {
           "name": "Премиум",
@@ -3794,7 +3794,7 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
-          "price": "100 usd"
+          "price": "110 usd"
         },
         {
           "name": "Премиум",
@@ -3854,7 +3854,7 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
-          "price": "90 usd"
+          "price": "110 usd"
         },
         {
           "name": "Премиум",
@@ -3944,7 +3944,7 @@
             " Вы можете оплатить рублями по курсу цб / лирами или долларами и евро после поездки водителю / криптой / лирами на карту"
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
-          "price": "90 usd"
+          "price": "100 usd"
         },
         {
           "name": "Премиум",
@@ -4033,7 +4033,7 @@
             " Оплата после поездки! Если Вы хотите оплатить рублями или криптой, то оплата до поездки. Реквизиты вам пришлет менеджер в телеграм. У нас самый выгодный курс: рубль / доллар - курс ЦБ. "
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
-          "price": "90 usd"
+          "price": "100 usd"
         },
         {
           "name": "Премиум",
@@ -4089,7 +4089,7 @@
             " Оплата после поездки! Если Вы хотите оплатить рублями или криптой, то оплата до поездки. Реквизиты вам пришлет менеджер в телеграм. У нас самый выгодный курс: рубль / доллар - курс ЦБ. "
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
-          "price": "70 usd"
+          "price": "80 usd"
         },
         {
           "name": "Премиум",
@@ -4369,7 +4369,7 @@
             " Оплата после поездки! Если Вы хотите оплатить рублями или криптой, то оплата до поездки. Реквизиты вам пришлет менеджер в телеграм. У нас самый выгодный курс: рубль / доллар - курс ЦБ. "
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
-          "price": "60 usd"
+          "price": "70 usd"
         },
         {
           "name": "Премиум",
@@ -4565,7 +4565,7 @@
             " Оплата после поездки! Если Вы хотите оплатить рублями или криптой, то оплата до поездки. Реквизиты вам пришлет менеджер в телеграм. У нас самый выгодный курс: рубль / доллар - курс ЦБ. "
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
-          "price": "70 usd"
+          "price": "80 usd"
         },
         {
           "name": "Премиум",
@@ -4593,7 +4593,7 @@
             " Оплата после поездки! Если Вы хотите оплатить рублями или криптой, то оплата до поездки. Реквизиты вам пришлет менеджер в телеграм. У нас самый выгодный курс: рубль / доллар - курс ЦБ. "
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
-          "price": "80 usd"
+          "price": "90 usd"
         },
         {
           "name": "Премиум",
@@ -4733,7 +4733,7 @@
             " Оплата после поездки! Если Вы хотите оплатить рублями или криптой, то оплата до поездки. Реквизиты вам пришлет менеджер в телеграм. У нас самый выгодный курс: рубль / доллар - курс ЦБ. "
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
-          "price": "70 usd"
+          "price": "80 usd"
         },
         {
           "name": "Премиум",
@@ -4761,7 +4761,7 @@
             " Оплата после поездки! Если Вы хотите оплатить рублями или криптой, то оплата до поездки. Реквизиты вам пришлет менеджер в телеграм. У нас самый выгодный курс: рубль / доллар - курс ЦБ. "
           ],
           "image": "https://raw.githubusercontent.com/Transfer-Portal/transfer-portal.github.com/main/car_yellow.png",
-          "price": "100 usd"
+          "price": "110 usd"
         },
         {
           "name": "Премиум",
